@@ -159,15 +159,7 @@
   text-decoration: underline;
   color: $primary-accent-clr;
 }
-// Checkbox Icon - substitution for standart checkbox
-// .form-user__icon-checkbox {
-//   position: absolute;
-//   top: 50%;
-//   left: 0;
-//   transform: translateY(-50%);
-//   width: 16px;
-//   height: 15px;
-// }
+
 .form-user__icon-checkbox--not-checked {
   display: block;
   .form-user__standart-checkbox:checked ~ & {
